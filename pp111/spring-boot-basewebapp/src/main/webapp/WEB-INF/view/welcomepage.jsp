@@ -23,9 +23,9 @@
 			<a href="/welcome" class="navbar-brand">Tecno-Tab</a>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
-					<li><a href='#'>Login</a></li>
-					<li><a href='#'>New Registration</a></li>
-					<li><a href='#'>All Users</a></li>
+					<li><a href='Login'>Login</a></li>
+					<li><a href='New Registration'>New Registration</a></li>
+					<li><a href='Users'>All Users</a></li>
 				</ul>
 			</div>
 		</div>
